@@ -2,7 +2,7 @@
 
 Below are the Rules of Information Technology. They are inspired by the Rules of Acquisition. Feel free to do a PR to add new ones, but please also include a rule description page so that others can learn from your wisdom.
 
-1. Users lie, even when they don't mean to.
+1. [Users lie, even when they don't mean to.](Rules/1.md)
 
     1.1. When a user says "Everyone", they mean "one or more person"
 2. Nothing is more permanent than a temporary solution.
