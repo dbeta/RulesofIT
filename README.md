@@ -19,6 +19,7 @@ Below are the Rules of Information Technology. They are inspired by the Rules of
 
     10.1. You will make mistakes too.
 11. [Don't forget to document.](Rules/11.md)
+
     11.1. Any documentation is better than no documentation.
 12. [Don't let perfect be the enemy of good.](Rules/12.md)
 13. [Don't take it home with you.](Rules/13.md)
