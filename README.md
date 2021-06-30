@@ -25,10 +25,11 @@ Below are the Rules of Information Technology. They are inspired by the Rules of
 13. [Don't take it home with you.](Rules/13.md)
 14. [If you are always on call, something is wrong.](Rules/14.md)
 15. [You will break things.](Rules/15.md)
-16. If the CEO's car is worth more than the entire IT budget, look elsewhere.
-17. Nobody buys a company to leave it alone.
+16. [If the CEO's car is worth more than the entire IT budget, look elsewhere.](Rules/16.md)
+17. [Nobody buys a company to leave it alone.](Rules/17.md)
 
     17.1. Private equity spells doom.
-18. Loyalty has to go both ways.
+18. [Loyalty has to go both ways.](Rules/18.md)
     18.1. Loyalty doesn't pay the rent.
-19. The infrastructure is not your baby.
+19. [The infrastructure is not your baby.](Rules/19.md)
+20. [If you are the smartest person in the room, you are in the wrong room.](Rules/20.md)
