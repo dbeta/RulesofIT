@@ -34,3 +34,6 @@ Below are the Rules of Information Technology. They are inspired by the Rules of
     18.1. Loyalty doesn't pay the rent.
 19. [The infrastructure is not your baby.](Rules/19.md)
 20. [If you are the smartest person in the room, you are in the wrong room.](Rules/20.md)
+21. [Be kind, Rewind](Rules/21.md)
+
+    21.1. Users are people too
